@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>at.pob.StudentDAO</OriginalElement>
+  <nodes>
+    <node x="-234.0" y="160.0">at.pob.StudentDAO.StudentDaoImpl</node>
+    <node x="-169.0" y="416.0">at.pob.StudentDAO.Student</node>
+    <node x="-233.0" y="-5.0">at.pob.StudentDAO.StudentDao</node>
+    <node x="221.0" y="329.0">at.pob.StudentDAO.DaoPatternDemo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="at.pob.StudentDAO.DaoPatternDemo" target="at.pob.StudentDAO.Student">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="at.pob.StudentDAO.DaoPatternDemo" target="at.pob.StudentDAO.StudentDaoImpl">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="at.pob.StudentDAO.StudentDaoImpl" target="at.pob.StudentDAO.Student">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="at.pob.StudentDAO.StudentDaoImpl" target="at.pob.StudentDAO.StudentDao">
+      <point x="0.0" y="-81.5" />
+      <point x="0.0" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="120.5" y="351.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

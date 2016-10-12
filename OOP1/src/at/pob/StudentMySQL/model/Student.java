@@ -1,4 +1,4 @@
-package at.pob.StudentDAO;
+package at.pob.StudentMySQL.model;
 
 /**
  * Created by bpoes on 11.10.2016.

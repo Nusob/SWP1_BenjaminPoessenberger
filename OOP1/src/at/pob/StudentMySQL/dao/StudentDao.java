@@ -1,4 +1,6 @@
-package at.pob.StudentDAO;
+package at.pob.StudentMySQL.dao;
+
+import at.pob.StudentMySQL.model.Student;
 
 import java.util.ArrayList;
 
